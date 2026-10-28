@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a422d76e-44af-4679-9a2e-b83e90ad715b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/locators/locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/pyproject.tom1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/tests/auth/test_auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/tests/cart/test_cart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/tests/purchase/test_purchase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saucedemo-selenium-tests/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +49,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
