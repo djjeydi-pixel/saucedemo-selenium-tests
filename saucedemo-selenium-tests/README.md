@@ -28,3 +28,5 @@
 2. Установите необходимые зависимости:
    ```bash
    pip install selenium pytest pytest-html
+   Тесты готовы к проверке.
+   
