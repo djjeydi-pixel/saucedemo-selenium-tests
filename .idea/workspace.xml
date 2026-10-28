@@ -4,6 +4,9 @@
     <list default="true" id="a422d76e-44af-4679-9a2e-b83e90ad715b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/saucedemo-selenium-tests/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saucedemo-selenium-tests/tests/auth/test_auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/selenium_tests/auth/test_auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saucedemo-selenium-tests/tests/cart/test_cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/selenium_tests/cart/test_cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saucedemo-selenium-tests/tests/purchase/test_purchase.py" beforeDir="false" afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/selenium_tests/purchase/test_purchase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,39 +23,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "djjeydi-pixel"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;djjeydi-pixel&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/djjeydi-pixel/saucedemo-selenium-tests.git",
-    "accountId": "08ab63ae-d64b-4f95-9b5f-4cfb9caaa36a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/djjeydi-pixel/saucedemo-selenium-tests.git&quot;,
+    &quot;accountId&quot;: &quot;08ab63ae-d64b-4f95-9b5f-4cfb9caaa36a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3LK5U3YuI5Q1wAxy5vo1FvJiQt7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#1 on feature/selenium-test&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\TUSUR\Part 4. Programming start\AutoTest\8\saucedemo-selenium-tests" />
