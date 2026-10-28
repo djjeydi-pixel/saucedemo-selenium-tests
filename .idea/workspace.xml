@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a422d76e-44af-4679-9a2e-b83e90ad715b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/locators/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/pyproject.tom1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/tests/auth/test_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/tests/cart/test_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saucedemo-selenium-tests/tests/purchase/test_purchase.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "djjeydi-pixel"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/djjeydi-pixel/saucedemo-selenium-tests.git",
+    "accountId": "08ab63ae-d64b-4f95-9b5f-4cfb9caaa36a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LK5U3YuI5Q1wAxy5vo1FvJiQt7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\TUSUR\Part 4. Programming start\AutoTest\8\saucedemo-selenium-tests" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a422d76e-44af-4679-9a2e-b83e90ad715b" name="Changes" comment="" />
+      <created>1793189930236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793189930236</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
